@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name:Santiago Crisantes 
+2. Student ID: 2364298
+3. Email: crisantes@chapman.edu
+4. Class: CPSC 298-01
 5. Assignment: numbers 
 
 ## Application Purpose
