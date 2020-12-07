@@ -16,5 +16,5 @@ do
 		echo "$N is odd"
 	fi
 
-	N=$ [ $N+1 ]
+	N=$((N+1)) 
 done
